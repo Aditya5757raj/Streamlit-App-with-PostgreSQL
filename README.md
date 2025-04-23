@@ -150,7 +150,7 @@ docker run -d \
 
 ## ✅ Expected Result
 
-![App showing successful database connection](output.jpg)
+![App showing successful database connection](image.png)
 
 ---
 
